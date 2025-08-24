@@ -34,3 +34,4 @@ C:\Mis Proyectos\EjemploClase\obj\Debug\net8.0\refint\EjemploClase.dll
 C:\Mis Proyectos\EjemploClase\obj\Debug\net8.0\EjemploClase.pdb
 C:\Mis Proyectos\EjemploClase\obj\Debug\net8.0\EjemploClase.genruntimeconfig.cache
 C:\Mis Proyectos\EjemploClase\obj\Debug\net8.0\ref\EjemploClase.dll
+C:\Mis Proyectos\EjemploClase\obj\Debug\net8.0\EjemploClase.sourcelink.json
